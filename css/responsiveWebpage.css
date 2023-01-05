@@ -86,7 +86,7 @@
 
 /* attaching background */
 .background{
-    background: rgba(0, 0, 0, 0.7) url(img/bg3.jpg);
+    background: rgba(0, 0, 0, 0.7) url(https://source.unsplash.com/900x900/?dark,nature);
     background-size: cover;
     background-blend-mode: darken;
 }
